@@ -38,5 +38,9 @@ carlos=Alumno("Carlos","Garcia")
 carlos.matriculado(True)
 carlos.inhabilitado(False)
 carlos.graduado(False)
-
+print("otro objeto \n")
+juan=Alumno("Juan", "perez")
+juan.matriculado(False)
+juan.inhabilitado(False)
+juan.graduado(False)
 
